@@ -47,4 +47,3 @@ if __FILE__ == $0
   mg.say_hi
   mg.say_bye
 end
-
